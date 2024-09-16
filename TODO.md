@@ -1,6 +1,8 @@
 # TODO List
 
-# Write your MySQL query statement below
+1. Solve the next problem  Write your MySQL query statement below
+2. Fill the repo with solutions to other problems 
+
 
 #Notes:
 1. Find avg time for each machine to complete a process 
